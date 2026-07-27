@@ -5,10 +5,10 @@
 <td width="28%">
 
 <!-- 你的圆形头像：把括号里图片链接换成你的照片在线地址即可 -->
-<div align="center">
-<img width="160" height="160" style="border-radius:50%;object-fit:cover;" src="https://picsum.photos/id/1012/300/300">
-</div>
 
+<div align="center">
+<img width="160" height="160" style="border-radius:50%;object-fit:cover;" src="https://c-ssl.dtstatic.com/uploads/item/202002/08/20200208103525_dsA3K.thumb.1000_0.jpeg">
+</div>
 <br>
 
 ### Simple-ssr
@@ -16,7 +16,7 @@
 
 <br>
 
-📩 邮箱：xxxx@163.com
+📩 邮箱：23307130490@m.fudan.edu.cn
 🏫 院校：复旦大学
 🌐 个人主页：https://simple-ssr.github.io
 💻 GitHub：https://github.com/Simple-ssr
@@ -24,9 +24,9 @@
 <br>
 
 #### 🎖 荣誉成就
-- 复旦大学光华杯创新创业大赛 特等奖
-- 校级学业奖学金
-- 科研项目优秀参与者
+- 2023-2024学年复旦大学优秀学生奖学金二等奖
+- 2023-2024学年复旦大学优秀学生奖学金二等奖
+
 
 <br>
 
