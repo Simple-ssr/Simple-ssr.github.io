@@ -3,7 +3,7 @@
 <h2>💫 欢迎来到我的星球 💫</h2>
 
 <!-- 个性签名 -->
-<p><i>卓越而有趣，自由而无用</i></p>
+<p><i>卓越而有趣 自由而无用</i></p>
 
 
 </div>
@@ -18,12 +18,10 @@
 ---
 
 ## 🛠️ Tech Stack
-
-
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,c,matlab,js,vscode,latex,github," />
 </div>
+
 ---
 
 ## 📌 Featured Projects
@@ -39,4 +37,4 @@
 
 </div>
 
-
+---
