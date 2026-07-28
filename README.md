@@ -8,23 +8,20 @@
 
 </div>
 
----
 
 ## 🧑‍💻 About Me
 
-- 🎓 复旦大学 | 通信工程 | 27届毕业生
-- 📜 2023-2024学年复旦大学优秀学生奖学金二等奖 | 2024-2025学年复旦大学优秀学生奖学金三等奖
+-  复旦大学 | 通信工程 | 27届毕业生
+-  2023-2024学年复旦大学优秀学生奖学金二等奖 | 2024-2025学年复旦大学优秀学生奖学金三等奖
 
----
 
 ## 🛠️ Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,c,matlab,js,vscode,latex,github," />
 </div>
 
----
 
-## 📌 Featured Projects
+## 📜 Featured Projects
 
 <div align="center">
 
@@ -37,4 +34,3 @@
 
 </div>
 
----
