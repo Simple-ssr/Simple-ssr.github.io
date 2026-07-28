@@ -1,9 +1,7 @@
-<div align="center">
 
-<!-- 动态打字效果 -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=800&lines=%E5%AE%81%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E8%B8%8F%E5%85%A5%E6%88%91%E7%9A%84%E5%AE%87%E5%AE%99%EF%BC%8C%E5%B9%B8%E4%BC%9A" alt="Typing SVG" />
-</a>
+<h2 align="center">
+<font color="#F3CCDB">欢迎来到我的宇宙，幸会</font>
+</h2>
 
 <!-- 个性签名 -->
 <p><i>🚀 Hello World ! ! ! </i></p>
