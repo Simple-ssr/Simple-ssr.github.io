@@ -2,7 +2,7 @@
 <table width="100%" border="0">
 <tr valign="top">
 <!-- 左侧侧边栏：头像、个人基础信息 -->
-<td width="28%">
+<td width="30%">
 
 <!-- 你的圆形头像：把括号里图片链接换成你的照片在线地址即可 -->
 
@@ -12,7 +12,7 @@
 <br>
 
 ### Simple-ssr
-复旦通信工程 | 应届毕业生
+复旦大学 | 通信工程 | 27届毕业生
 
 <br>
 
@@ -38,7 +38,7 @@ GEE遥感平台 · Origin数据分析 · Git版本控制
 </td>
 
 <!-- 右侧主内容区域 -->
-<td width="72%">
+<td width="70%">
 
 <!-- 顶部紫色横幅标题栏 -->
 <div style="background:linear-gradient(90deg,#5a20b8,#9130d8);color:white;padding:30px 25px;border-radius:10px;">
