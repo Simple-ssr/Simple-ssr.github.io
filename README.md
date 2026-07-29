@@ -27,10 +27,10 @@
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
-| 🤖 [academic-assistant-system](https://github.com/SMZXzbc/academic-assistant-system) | 多 Agent 协作智能学术助教系统 | Python, Multi-Agent |
-| 🎯 [leetcode-ai-tutor](https://github.com/SMZXzbc/leetcode-ai-tutor) | AI 辅助 LeetCode 刷题工具，基于 MiMo API | Python, API |
-| 🚢 [kaggle-titanic](https://github.com/SMZXzbc/kaggle-titanic) | Kaggle Titanic 竞赛 - 我的第一个 ML 项目 | Jupyter, ML |
-| 📚 [machine-learning-notes](https://github.com/SMZXzbc/machine-learning-notes) | 机器学习学习笔记 - NumPy, Pandas, Matplotlib, Scikit-learn | Jupyter, ML |
+| 📡 [vlc-windowed-scfde](https://github.com/Simple-ssr/vlc-windowed-scfde) | 多 Agent 协作智能学术助教系统 | Python, Multi-Agent |
+| 🌍 [leetcode-ai-tutor](https://github.com/SMZXzbc/leetcode-ai-tutor) | AI 辅助 LeetCode 刷题工具，基于 MiMo API | Python, API |
+| ❄️ [kaggle-titanic](https://github.com/SMZXzbc/kaggle-titanic) | Kaggle Titanic 竞赛 - 我的第一个 ML 项目 | Jupyter, ML |
+
 
 </div>
 
