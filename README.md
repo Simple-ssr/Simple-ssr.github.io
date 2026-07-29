@@ -25,11 +25,11 @@
 
 <div align="center">
 
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| 📡 [vlc-windowed-scfde](https://github.com/Simple-ssr/vlc-windowed-scfde) | 多 Agent 协作智能学术助教系统 | Python, Multi-Agent |
-| 🌍 [leetcode-ai-tutor](https://github.com/SMZXzbc/leetcode-ai-tutor) | AI 辅助 LeetCode 刷题工具，基于 MiMo API | Python, API |
-| ❄️ [kaggle-titanic](https://github.com/SMZXzbc/kaggle-titanic) | Kaggle Titanic 竞赛 - 我的第一个 ML 项目 | Jupyter, ML |
+| 项目 | 描述 |
+|------|------|
+| 📡 [vlc-windowed-scfde](https://github.com/Simple-ssr/vlc-windowed-scfde) | 基于加窗单载波频域均衡和偏振分集双孔径接收的可见光通信系统 | 
+| 🌍 [urb-eco-3c-rs-indices](https://github.com/Simple-ssr/urb-eco-3c-rs-indices) | 基于遥感指数的三市城市扩张与生态演变研究 |
+| ❄️ [cryo-crystal-thermal-properties](https://github.com/Simple-ssr/cryo-crystal-thermal-properties) | 超低温环境下晶体热学性质研究  | 
 
 
 </div>
