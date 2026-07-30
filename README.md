@@ -29,7 +29,7 @@
 |------|------|------|
 | 📡 [vlc-windowed-scfde](https://github.com/Simple-ssr/vlc-windowed-scfde) | 基于加窗单载波频域均衡和偏振分集双孔径接收的可见光通信系统 | matlab |
 | 🌍 [urb-eco-3c-rs-indices](https://github.com/Simple-ssr/urb-eco-3c-rs-indices) | 基于遥感指数的三市城市扩张与生态演变研究 | JavaScript |
-| ❄️ [cryo-crystal-thermal-properties](https://github.com/Simple-ssr/cryo-crystal-thermal-properties) | 超低温环境下晶体热学性质研究  | Oringin |
+| ❄️ [cryo-crystal-thermal-properties](https://github.com/Simple-ssr/cryo-crystal-thermal-properties) | 超低温环境下晶体热学性质研究  | Origin |
 | 🐣 [stardew-valley](https://github.com/Simple-ssr/stardew-valley) | 自制星露谷攻略小网页  | HTML |
 
 </div>
